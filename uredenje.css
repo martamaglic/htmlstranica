@@ -1,0 +1,35 @@
+@charset "utf-8";
+/*CSS Document */
+p {
+	color: indianred ;
+	font-family: New York Times, "serif";
+	font-size: 16px;
+	line-height: 14px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 10px;
+	}
+
+
+	h1 {
+		font-family: Garamond, "serif";
+		color: steelblue;
+		font-size: 45px;
+		}
+
+	h2 {
+		font-family: Papyrus, "fantasy;";
+		color: darksalmon;
+		font-size: 32px;
+		}
+	
+	.pozadina {
+		background-color:honeydew;
+		}
+
+
+	img {
+		height: 200px;
+	} 
+	
+ 
